@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <math.h>
+
+int main(int argc, char *argv[]){
+	/* do stuff */
+	char lname = argv[0];
+	char fname = argv[1];
+	double hours = atof(argv[2]);
+	double rate = atof(argv[3]);
+	printf("hello205565 - Lenovo ThinkPad T540p 20BFS0BR00");
+}
